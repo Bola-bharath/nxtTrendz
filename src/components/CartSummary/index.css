@@ -1,0 +1,18 @@
+.total-cost {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-bottom: 2px;
+}
+.total-label {
+  color: #616e7c;
+  font-size: 16px;
+  font-weight: 500;
+}
+.checkout-button {
+  background-color: #0b69ff;
+  color: white;
+  padding: 10px;
+  border: 0px;
+  border-radius: 5px;
+}
